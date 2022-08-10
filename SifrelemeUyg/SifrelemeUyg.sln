@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifrelemeUyg", "SifrelemeUyg\SifrelemeUyg.csproj", "{D8CE447B-162E-4C23-AEF3-E9E25D0167E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8CE447B-162E-4C23-AEF3-E9E25D0167E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CE447B-162E-4C23-AEF3-E9E25D0167E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CE447B-162E-4C23-AEF3-E9E25D0167E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CE447B-162E-4C23-AEF3-E9E25D0167E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75ABC824-C6C1-49A6-A497-16D8A814E17F}
+	EndGlobalSection
+EndGlobal

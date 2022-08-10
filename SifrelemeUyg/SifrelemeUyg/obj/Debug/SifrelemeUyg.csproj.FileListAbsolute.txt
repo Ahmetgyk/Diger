@@ -1,0 +1,7 @@
+C:\Users\ahmet\Desktop\SifrelemeUyg\SifrelemeUyg\obj\Debug\SifrelemeUyg.csprojAssemblyReference.cache
+C:\Users\ahmet\Desktop\SifrelemeUyg\SifrelemeUyg\obj\Debug\SifrelemeUyg.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\SifrelemeUyg\SifrelemeUyg\bin\Debug\SifrelemeUyg.exe.config
+C:\Users\ahmet\Desktop\SifrelemeUyg\SifrelemeUyg\bin\Debug\SifrelemeUyg.exe
+C:\Users\ahmet\Desktop\SifrelemeUyg\SifrelemeUyg\bin\Debug\SifrelemeUyg.pdb
+C:\Users\ahmet\Desktop\SifrelemeUyg\SifrelemeUyg\obj\Debug\SifrelemeUyg.exe
+C:\Users\ahmet\Desktop\SifrelemeUyg\SifrelemeUyg\obj\Debug\SifrelemeUyg.pdb
